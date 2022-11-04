@@ -6,6 +6,7 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0;
+    background-color: #1F2937;
 }
 
 .header {
@@ -88,6 +89,7 @@ a {
     padding-bottom: 75px;
     padding-left: 200px;
     padding-right: 200px;
+    background-color: white;
 }
 
 .info-one {
@@ -148,6 +150,10 @@ a {
 }
 
 .content-four {
+    background-color: white;
+}
+
+.cta {
     display: flex;
     background-color: #3882f6;
     margin: 50px 100px;
