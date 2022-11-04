@@ -1,0 +1,34 @@
+html * {
+    font-family: Roboto, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1F2937;
+}
+
+.header-hero {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    list-style-type: none;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
